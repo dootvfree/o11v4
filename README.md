@@ -5,7 +5,7 @@ Installation Guide
 git clone https://github.com/dootvfree/o11v4
 2.Navigate to the project directory:
 
-cd O11-v4
+cd o11-v4
 
 3.Install Docker:
 
