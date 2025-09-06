@@ -2,8 +2,7 @@ Installation Guide
 
 1.Clone the repository:
 
-git clone https://github.com/PrimeHXR/O11-v4
-
+git clone https://github.com/dootvfree/o11v4
 2.Navigate to the project directory:
 
 cd O11-v4
