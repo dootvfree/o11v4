@@ -43,3 +43,15 @@ If you liked it, consider donating:
 
 Bitcoin (BTC) Address:
 1B6wYR8FJ6sWm8MZSxjT5sdNQtPEHEaykw
+
+
+
+
+
+
+
+
+
+
+
+
