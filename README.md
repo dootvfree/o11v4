@@ -15,6 +15,7 @@ snap install docker
 4.Build the Docker image:
 
 sudo docker build -t o11-v4 .
+
 5.Choose between Node.js or Python. DON'T FORGET TO ADD YOUR SERVER IP ADDRESS!
 
 Remember to update the corresponding file:
